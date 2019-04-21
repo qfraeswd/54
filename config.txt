@@ -3,4 +3,4 @@ prefix=8
 game=8play || 8help
 stayinchannel=true
 songinstatus=false
-token=NTY5NTQyMTQ0MjcyODkxOTYy.XLyJwQ.Bav43spH3Ekl4uFJDL0IO64aduk
+token=NTY5NTQyMTgyNzcyNjcwNDc0.XLyMfA.VZrrgJ3DtxWQJAPTqXDcXj4WACc
