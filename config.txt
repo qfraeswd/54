@@ -1,6 +1,6 @@
 owner=564414567946387487
 prefix=8
-game=8play || 8help
+game=Type 8help
 stayinchannel=true
 songinstatus=false
 token=NTY5NTQyMTgyNzcyNjcwNDc0.XLyMfA.VZrrgJ3DtxWQJAPTqXDcXj4WACc
